@@ -1,4 +1,4 @@
-# Sleep Health and Lifestyle..
+# Sleep Health and Lifestyle.
 
 [![Live demo](https://img.shields.io/badge/Live_demo-open-6366f1?style=for-the-badge)](https://hadbiaghiles.github.io/Sleep-Analysis/)
 
